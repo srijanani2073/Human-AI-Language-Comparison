@@ -15,10 +15,10 @@ This work was submitted as part of the **Research Methodology** course at Amrita
 ## Repository Contents
 
 ```
-├── Dataset.xlsx              # The annotated parallel dataset (human + AI passages)
-├── Dataset_Description.docx # Detailed description of dataset columns, structure, and usage
-├── lang_comp.ipynb                # Jupyter notebook with full analysis and NLP pipeline
-└── Paper.pdf     # Final research paper submitted for the course
+├── Dataset.xlsx                      # The annotated parallel dataset (human + AI passages)
+├── Dataset_Description.docx          # Detailed description of dataset columns, structure, and usage
+├── lang_comp.ipynb                   # Jupyter notebook with full analysis and NLP pipeline
+└── Paper.pdf                         # Final research paper submitted for the course
 ```
 
 
